@@ -1,0 +1,7 @@
+https://drive.google.com/drive/folders/1Ad3KMLHpRGtNdpLPkogS0sTfe4hiuuji?usp=sharing
+Name: ScreenShot
+Description: We have arrested a criminal and we think that he takes so many screenshots can you help me to find the secret?
+Level: Easy
+First Question: What is the Name of the secret file "without extension"?
+Second Question: What is the MD5 hash of the associated LNK File ?
+Third Question: can you find the secret text?
